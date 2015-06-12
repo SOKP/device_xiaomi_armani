@@ -15,7 +15,7 @@
     "branch": "sokp-l5.1"
   },
   {
-    "repository": "kernel_xiaomi_cancro",
+    "repository": "kernel_xiaomi_armani",
     "target_path": "kernel/xiaomi/armani",
     "branch": "sokp-l5.1"
   },
