@@ -8,20 +8,5 @@
    "repository": "hardware_qcom_fm",
    "target_path": "hardware/qcom/fm",
    "branch": "sokp-l5.1"
-  },
-  {
-    "repository": "proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch": "sokp-l5.1"
-  },
-  {
-    "repository": "kernel_xiaomi_armani",
-    "target_path": "kernel/xiaomi/armani",
-    "branch": "sokp-l5.1"
-  },
-  {
-    "repository": "device_xiaomi_armani",
-    "target_path": "device/xiaomi/armani",
-    "branch": "sokp-l5.1"
-  }
+  },  
 ]
